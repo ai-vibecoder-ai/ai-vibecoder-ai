@@ -8,12 +8,6 @@
   Строю цифровые конвейеры, где AI делает рутину, а люди — стратегию.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vibecoding-AI%20First-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="Vibecoding" />
-  <img src="https://img.shields.io/badge/SEO-Data%20Driven-2E8B57?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/BA%2FSA-Process%20Thinker-0E75B6?style=for-the-badge&logo=notion&logoColor=white" alt="BA/SA" />
-</p>
-
 ---
 
 ## 🧠 Кто я
